@@ -1,4 +1,4 @@
-def my_hash(hash) 
+def my_hash
   hash = {
 "name" => "Chad"
 }
