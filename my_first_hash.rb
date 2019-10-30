@@ -1,7 +1,7 @@
 def my_hash = {
 name => "Chad"
 }
-end
+
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
 
@@ -14,7 +14,7 @@ def shipping_manifest =
 "oil paintings" => 3
 }
 
-end
+
 
 def retrieval
   shipping_manifest = {
